@@ -1,6 +1,6 @@
 # Automate-The-Boring-Stuff-With-Python
 
-Since we're going to be stuck inside for the forseeable future, let's learn some new stuff! Going to work my way though 'Automate the Boring Stuff with Python' by Al Sweigart: https://automatetheboringstuff.com/.
+Since we're going to be stuck inside for the foreseeable future, let's learn some new stuff! Going to work my way though 'Automate the Boring Stuff with Python' by Al Sweigart: https://automatetheboringstuff.com/.
 
 - [x] Chapter 0 – Introduction
 - [ ] Chapter 1 – Python Basics
