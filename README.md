@@ -2,7 +2,7 @@
 
 Since we're going to be stuck inside for the forseeable future, let's learn some new stuff! Going to work my way though 'Automate the Boring Stuff with Python' by Al Sweigart: https://automatetheboringstuff.com/.
 
-- [ ] Chapter 0 – Introduction
+- [x] Chapter 0 – Introduction
 - [ ] Chapter 1 – Python Basics
 - [ ] Chapter 2 – Flow Control
 - [ ] Chapter 3 – Functions
